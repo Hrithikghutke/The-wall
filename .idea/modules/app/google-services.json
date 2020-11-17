@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167020415564",
+    "firebase_url": "https://the-wall-2d003.firebaseio.com",
+    "project_id": "the-wall-2d003",
+    "storage_bucket": "the-wall-2d003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167020415564:android:a046407bc82bb9499dc2e9",
+        "android_client_info": {
+          "package_name": "com.example.thewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167020415564-bp9kl8uo71utmri652q5ovpqmd7kv2qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thewall",
+            "certificate_hash": "71de8fb02c144900a8d2d7bf46ef070a2d02af3a"
+          }
+        },
+        {
+          "client_id": "167020415564-kks8bduafeebuhq4re068na4am21sr50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpKBlzYxK5edKpUFPBAsNyIxy_uAL7Rjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167020415564-kks8bduafeebuhq4re068na4am21sr50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0c0d0d</color>
+    <color name="colorPrimaryDark">#0c0d0d</color>
+    <color name="colorAccent">#0c0d0d</color>
+
+    <color name="colorTitle">#CFCFCF</color>
+    <color name="colorNavDefault">#8b8a8a</color>
+    <color name="colorNavActive">#fafafa</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorCategoryBackground">#000000</color>
+    <color name="black">#111111</color>
+    <color name="pitchblack">#000000</color>
+</resources>

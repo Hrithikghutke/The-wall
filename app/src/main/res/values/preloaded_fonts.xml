@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/amita</item>
+        <item>@font/atomic_age</item>
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/croissant_one</item>
+        <item>@font/didact_gothic</item>
+        <item>@font/gabriela</item>
+    </array>
+</resources>

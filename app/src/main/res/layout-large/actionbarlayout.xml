@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/action_bar_title"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_image2"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/font"
+        android:text=" T  H  E   W  A  L  L  P  A  P  E  R  S"
+        android:textColor="@color/colorWhite"
+        android:textSize="27sp"
+        app:fontFamily="@font/casualhardcore">
+
+
+    </androidx.appcompat.widget.AppCompatTextView>
+
+</LinearLayout>
